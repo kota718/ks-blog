@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Centos7 on K/S blog</title>
+    <link>/tags/centos7/index.xml</link>
+    <description>Recent content in Centos7 on K/S blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <managingEditor>kota.yt@gmail.com (Kota Seki)</managingEditor>
+    <webMaster>kota.yt@gmail.com (Kota Seki)</webMaster>
+    <atom:link href="/tags/centos7/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CentOS7でiptablesを使ってみる</title>
+      <link>/post/2017-04-10_iptables/</link>
+      <pubDate>Sun, 09 Apr 2017 00:31:09 +0900</pubDate>
+      <author>kota.yt@gmail.com (Kota Seki)</author>
+      <guid>/post/2017-04-10_iptables/</guid>
+      <description>
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;h3 id=&#34;環境&#34;&gt;環境&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CentOS7&lt;/li&gt;
+&lt;li&gt;iptables&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;インストール&#34;&gt;インストール&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;[root@loclhost ~]$ yum -y install iptables
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

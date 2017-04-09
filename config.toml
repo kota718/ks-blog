@@ -1,12 +1,12 @@
 languageCode = "ja-jp"
-baseURL = "http://kota718.github.io/"
+baseURL = "https://kota718.github.io/"
 title = "K/S blog"
 theme = "beautifulhugo"
 metaDataFormat = "toml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
 disqusShortname = "k-s-blog"
-#googleAnalytics = "XXX"
+googleAnalytics = "UA-97011396-1"
 
 [taxonomies]
 tag = "tags"
