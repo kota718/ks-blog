@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on K/S blog</title>
+    <link>http://kota718.github.io/tags/test/index.xml</link>
+    <description>Recent content in Test on K/S blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <managingEditor>kota.yt@gmail.com (Kota Seki)</managingEditor>
+    <webMaster>kota.yt@gmail.com (Kota Seki)</webMaster>
+    <atom:link href="http://kota718.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>This is test</title>
+      <link>http://kota718.github.io/post/2017-04-09_test/</link>
+      <pubDate>Sun, 09 Apr 2017 11:41:31 +0900</pubDate>
+      <author>kota.yt@gmail.com (Kota Seki)</author>
+      <guid>http://kota718.github.io/post/2017-04-09_test/</guid>
+      <description>&lt;p&gt;This is test page.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
