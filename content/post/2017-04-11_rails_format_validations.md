@@ -14,3 +14,6 @@ draft = true
  なので formatのみのチェックにしようとしましたが、全角文字はキャストされて0に変換されてしまいます。
 NumericalityValidator では `before_type_cast` の値に対してバリデーションをするのに対して、
 FormatValidatorはキャスト後の値をバリデーションの対象とするので検知できない。。
+
+https://github.com/rails/rails/blob/v5.0.2/activemodel/lib/active_model/validations/format.rb
+https://github.com/rails/rails/blob/v5.0.2/activemodel/lib/active_model/validations/numericality.rb
