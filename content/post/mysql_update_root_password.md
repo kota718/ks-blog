@@ -6,6 +6,7 @@ title = "This is test"
 
 +++
 
-```sql
-UPDATE mysql.user SET Password=PASSWORD('new password') WHERE User='root';
+```mysql
+  mysql> ALTER USER 'root'@'localhost' IDENTIFIED BY 'P@ssw0rd!';
+  Query OK, 0 rows affected (0.00 sec)
 ```
