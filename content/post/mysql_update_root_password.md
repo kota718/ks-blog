@@ -7,7 +7,7 @@ title = "This is test"
 +++
 
 ```mysql
-  mysql> ALTER USER 'root'@'localhost' IDENTIFIED BY 'P@ssw0rd!';
+  mysql> ALTER USER 'root'@'localhost' IDENTIFIED BY 'new_password';
   Query OK, 0 rows affected (0.00 sec)
   
   mysql> flush privileges;
